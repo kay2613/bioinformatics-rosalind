@@ -1,0 +1,2 @@
+# bioinformatics-rosalind
+Bioinformatics Course
